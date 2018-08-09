@@ -13,5 +13,9 @@ public static void main (String [] args){
 
 
     return c;
-    }
+            }
+
+    public static Integer mnozenie(Integer a, Integer b){
+        int c=a*b;
+        return c;}
 }
