@@ -18,4 +18,9 @@ public static void main (String [] args){
     public static Integer mnozenie(Integer a, Integer b){
         int c=a*b;
         return c;}
+       public static Integer dzielenie (Integer a, Integer b){
+        int c=a/b;
+        return c;
+       }
+
 }
